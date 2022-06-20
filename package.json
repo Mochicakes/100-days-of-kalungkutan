@@ -1,0 +1,21 @@
+{
+  "name": "100-days-of-kalungkutan",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "100 days of coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mochicakes/100-days-of-kalungkutan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mochicakes/100-days-of-kalungkutan/issues"
+  },
+  "homepage": "https://github.com/Mochicakes/100-days-of-kalungkutan#readme"
+}
