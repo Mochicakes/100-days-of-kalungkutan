@@ -1,6 +1,7 @@
 .vscode
+.out
 
 day.md
-# index.js
-# helpers.js
+index.js
+helpers.js
 # package.json
